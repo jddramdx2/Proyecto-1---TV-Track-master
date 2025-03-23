@@ -58,6 +58,7 @@
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TESTTOPUSH.cs" />
     <Compile Include="Views\AdminChoiceForm.cs">
       <SubType>Form</SubType>
     </Compile>
