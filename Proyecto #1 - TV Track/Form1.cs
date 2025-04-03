@@ -14,6 +14,8 @@ namespace Proyecto__1___TV_Track
     {
         public Form1()
         {
+
+
             InitializeComponent();
         }
     }
